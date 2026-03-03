@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 
-<a href="https://seoatlas.com">
+<a href="https://seoatlas.io">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=36B7CF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=The+All-in-One+Link-Building+%26+SEO+Platform;Trusted+by+2%2C000%2B+SEO+Professionals+Worldwide;50%2C000%2B+Links+Placed+%7C+5%2C000%2B+Publications" alt="Typing SVG" />
 </a>
 
@@ -14,11 +14,11 @@
 
 <!-- ═══════════════════ CTA BADGES ═══════════════════ -->
 
-[![Website](https://img.shields.io/badge/Visit%20Website-seoatlas.com-131840?style=for-the-badge&logo=googlechrome&logoColor=36b7cf)](https://seoatlas.com)
+[![Website](https://img.shields.io/badge/Visit%20Website-seoatlas.io-131840?style=for-the-badge&logo=googlechrome&logoColor=36b7cf)](https://seoatlas.io)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SEO%20Atlas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/seoatlas)
 &nbsp;
-[![Email](https://img.shields.io/badge/Contact%20Us-info@seoatlas.com-1c3e8d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@seoatlas.com)
+[![Email](https://img.shields.io/badge/Contact%20Us-info@seoatlas.io-1c3e8d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@seoatlas.io)
 
 </div>
 
@@ -141,15 +141,15 @@
 <div align="center">
 <br/>
 
-<a href="https://seoatlas.com">
-  <img src="https://img.shields.io/badge/Website-seoatlas.com-131840?style=for-the-badge&logo=googlechrome&logoColor=36b7cf" />
+<a href="https://seoatlas.io">
+  <img src="https://img.shields.io/badge/Website-seoatlas.io-131840?style=for-the-badge&logo=googlechrome&logoColor=36b7cf" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/company/seoatlas">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:info@seoatlas.com">
+<a href="mailto:info@seoatlas.io">
   <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-1c3e8d?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
